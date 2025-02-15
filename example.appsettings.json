@@ -1,0 +1,7 @@
+{
+    "AzureOpenAI": {
+      "ApiKey": "YOUR_API_KEY",
+      "Endpoint": "https://YOUR_RESOURCE_NAME.openai.azure.com",
+      "Model": "gpt-35-turbo"
+    }
+}
